@@ -3,4 +3,4 @@ deux
 trois
 quatre
 cinq
-sexses
+six
