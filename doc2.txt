@@ -2,4 +2,4 @@ un
 deux
 trois
 quatre
-kes
+cinq
