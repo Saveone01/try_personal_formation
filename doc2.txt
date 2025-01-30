@@ -3,9 +3,5 @@ deux
 trois
 quatre
 cinq
-six
-<<<<<<< HEAD
-seppm
-=======
-sepyt
->>>>>>> afa08de7141db8a466eb5ec2f0d8cdb5a668c602
+sexses
+ajout1
