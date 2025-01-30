@@ -11,3 +11,4 @@ ajout2
 ajout1
 >>>>>>> 8e0714f5ea279a0fee2a787cb0a1d255d0d16dcc
 NB1
+NB2
